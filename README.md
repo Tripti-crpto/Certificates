@@ -1,66 +1,36 @@
-# 🏆 My Professional Certifications
+# 🤖 Claude 101 Learning Journey
 
-Welcome to my certifications repository! This is a collection of professional credentials and courses I've completed to enhance my skills in data analytics, programming, and AI.
+## 📚 About This Repository
+This repository documents my learning journey with **Claude 101** - exploring AI fundamentals, prompt engineering, and practical applications with Anthropic's Claude AI.
 
-## 📜 Certifications Earned
-
-| Certificate | Issuer | Date | Area | Status |
-|---|---|---|---|---|
-| Claude 101 | Anthropic Academy | 2026 | AI & Prompt Engineering | ✅ Completed |
-| Data Analytics | Microsoft | 2026 | Analytics & BI | ✅ Completed |
-| SQL Fundamentals | Microsoft | 2026 | Database & Querying | ✅ Completed |
-| Python Programming | Microsoft | 2026 | Programming | ✅ Completed |
-
-## 📋 Repository Contents
-
-- **Certificate.pdf** - Complete certification document with all credentials
-
-## 🎯 Skills & Knowledge Gained
-
-### Data Analytics & Business Intelligence
-- Data cleaning and preparation
-- Exploratory Data Analysis (EDA)
-- Dashboard creation with Power BI & Tableau
-- Statistical analysis and reporting
-
-### Programming & Databases
-- Python programming fundamentals
-- SQL querying and database management
-- Data manipulation with Pandas
-- Visualization libraries (Matplotlib, Seaborn)
-
-### AI & Prompt Engineering
+## 📖 Topics I'm Exploring
+- Prompt Engineering
+- AI Collaboration
+- Context-based prompting
 - Generative AI fundamentals
-- Prompt engineering best practices
-- Working with Claude AI
-- AI-powered problem solving
+- AI productivity workflows
 
-## 🚀 How These Certifications Help
+## 🎯 Why I'm Learning This
+I am exploring how AI tools can improve productivity, analytics, and problem-solving workflows.
 
-- **Career Growth**: Demonstrates commitment to continuous learning
-- **Skill Development**: Hands-on experience with industry-standard tools
-- **Portfolio Enhancement**: Real-world projects and case studies
-- **Professional Credibility**: Recognized certifications from leading platforms
+## 📈 Learning Progress
+- [x] What is Claude?
+- [x] Basic Prompt Techniques
+- [x] Advanced Prompting
+- [x] API Integration
+- [x] Building AI Workflows
 
-## 📚 Next Steps
-
-- [ ] Advanced Python for Data Science
-- [ ] Machine Learning Fundamentals
-- [ ] Advanced SQL & Database Design
-- [ ] Cloud Computing (AWS/Azure)
-- [ ] Power BI Advanced
-
-## 🔗 Verification
-
-All certifications can be verified through their respective platforms:
-- [Anthropic](https://www.anthropic.com/)
-- [Microsoft Learn](https://learn.microsoft.com/)
+## 🔗 Resources
+- [Claude Official Docs](https://claude.ai)
+- [Anthropic Academy](https://www.anthropic.com/)
+- [GitHub Repository](https://github.com/Tripti-m-ishra/claude-101-learning)
 
 ---
 
-**Last Updated**: May 2026
+**Learning Repository**: [Tripti-m-ishra/claude-101-learning](https://github.com/Tripti-m-ishra/claude-101-learning)
 
-**Questions or Want to Connect?**
-- 📧 Email: tripti.m2026@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/tripti-mishra-4a68881ba/
-- 💻 GitHub: https://github.com/Tripti-crpto
+**Check out my other repositories:**
+- [MCA-Preparation](https://github.com/Tripti-m-ishra/MCA-Preparation) - Complete learning hub for Master's degree
+- [Certificates](https://github.com/Tripti-m-ishra/Certificates) - Professional credentials
+- [Profile](https://github.com/Tripti-m-ishra) - GitHub profile
+
